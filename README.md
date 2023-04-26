@@ -1,2 +1,3 @@
 # AuroraOSS
-https://auroraoss.com/
+home: https://auroraoss.com/  
+source: https://gitlab.com/AuroraOSS/AuroraStore
